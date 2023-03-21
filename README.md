@@ -17,7 +17,9 @@
 
 [![license](https://img.shields.io/github/license/ashishjoshi2605/CSC591_Group5_Lua2Py_7?style=plastic)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/blob/main/LICENSE.md)
 [![language](https://img.shields.io/github/languages/top/ashishjoshi2605/CSC591_Group5_Lua2Py_7)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/search?l=python)<br/>
- 
+
+[![DOI](https://zenodo.org/badge/616242544.svg)](https://zenodo.org/badge/latestdoi/616242544)
+
 [![Tests](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/actions/workflows/tests.yaml/badge.svg)](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/actions/workflows/tests.yaml)
 [![Python Style Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/actions/workflows/python_style_checker.yml/badge.svg)](https://github.com/swarnamalyamohan/CSC591_Group5_Lua2Py_5/actions/workflows/python_style_checker.yml)
 [![Python Syntax Checker](https://github.com/ashishjoshi2605/CSC591_Group5_Lua2Py_7/actions/workflows/python_syntax_checker.yml/badge.svg)](https://github.comashishjoshi2605/CSC591_Group5_Lua2Py_7/actions/workflows/python_syntax_checker.yml)
